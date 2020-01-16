@@ -1,0 +1,226 @@
+[
+ {
+   "InvestmentId": 234110,
+   "Region": "EUROPE",
+   "Office": "London",
+   "Registration Received": "1/18/18",
+   "Investment Name": "Sutton Court Road",
+   "Deal Status": "Pre-Review",
+   "City": "London",
+   "State": {
+      " Province": null
+   },
+   "Deal Source": "Direct",
+   "Acquisition Officer": "Edgar, Alicia"
+},
+ {
+   "InvestmentId": 234121,
+   "Region": "USA",
+   "Office": "Dallas",
+   "Registration Received": "1/18/18",
+   "Investment Name": "Bainbridge NODA",
+   "Deal Status": "Pre-Review",
+   "City": "Charlotte",
+   "State": {
+      " Province": "NC"
+   },
+   "Deal Source": "Direct",
+   "Acquisition Officer": "Schmidt, Chris"
+},
+ {
+   "InvestmentId": 234122,
+   "Region": "USA",
+   "Office": "Dallas",
+   "Registration Received": "1/18/18",
+   "Investment Name": "Hawthorne at SouthPark",
+   "Deal Status": "Pre-Review",
+   "City": "Charlotte",
+   "State": {
+      " Province": "NC"
+   },
+   "Deal Source": "Broker",
+   "Acquisition Officer": "Schmidt, Chris"
+},
+ {
+   "InvestmentId": 234204,
+   "Region": "USA",
+   "Office": "Dallas",
+   "Registration Received": "2/1/18",
+   "Investment Name": "Novel Armory",
+   "Deal Status": "Pre-Review",
+   "City": "Boulder",
+   "State": {
+      " Province": "CO"
+   },
+   "Deal Source": "Direct",
+   "Acquisition Officer": "Eckstein, Steve"
+},
+ {
+   "InvestmentId": 234316,
+   "Region": "USA",
+   "Office": "Dallas",
+   "Registration Received": "2/15/18",
+   "Investment Name": "Midway Marketplace",
+   "Deal Status": "Pre-Review",
+   "City": "St. Paul",
+   "State": {
+      " Province": "MN"
+   },
+   "Deal Source": "Broker",
+   "Acquisition Officer": "Eckstein, Steve"
+},
+ {
+   "InvestmentId": 234933,
+   "Region": "USA",
+   "Office": "New York",
+   "Registration Received": "5/17/18",
+   "Investment Name": "Cordoba I and II",
+   "Deal Status": "Pre-Review",
+   "City": "Doral",
+   "State": {
+      " Province": "FL"
+   },
+   "Deal Source": "Direct",
+   "Acquisition Officer": "Roth, Evan"
+},
+ {
+   "InvestmentId": 235019,
+   "Region": "USA",
+   "Office": "New York",
+   "Registration Received": "5/29/18",
+   "Investment Name": "Gateway Center Newark",
+   "Deal Status": "Pre-Review",
+   "City": "Newark",
+   "State": {
+      " Province": "NJ"
+   },
+   "Deal Source": "Broker",
+   "Acquisition Officer": "York, Christopher"
+},
+ {
+   "InvestmentId": 235140,
+   "Region": "USA",
+   "Office": "New York",
+   "Registration Received": "6/14/19",
+   "Investment Name": "2 and 3 Miami Central",
+   "Deal Status": "Pre-Review",
+   "City": "Miami",
+   "State": {
+      " Province": "FL"
+   },
+   "Deal Source": "Broker",
+   "Acquisition Officer": "Roth, Evan"
+},
+ {
+   "InvestmentId": 235142,
+   "Region": "USA",
+   "Office": "San Francisco",
+   "Registration Received": "6/14/18",
+   "Investment Name": "SuperValu Distribution Center",
+   "Deal Status": "Pre-Review",
+   "City": "Pompano Beach",
+   "State": {
+      " Province": "FL"
+   },
+   "Deal Source": "Broker",
+   "Acquisition Officer": "Roth, Evan"
+},
+ {
+   "InvestmentId": 235144,
+   "Region": "USA",
+   "Office": "New York",
+   "Registration Received": "6/14/18",
+   "Investment Name": "The Source",
+   "Deal Status": "Pre-Review",
+   "City": "White Plains",
+   "State": {
+      " Province": "NY"
+   },
+   "Deal Source": "Broker",
+   "Acquisition Officer": "Roth, Evan"
+},
+ {
+   "InvestmentId": 235204,
+   "Region": "USA",
+   "Office": "New York",
+   "Registration Received": "6/26/18",
+   "Investment Name": "Broadstone Plantation",
+   "Deal Status": "Pre-Review",
+   "City": "Plantation",
+   "State": {
+      " Province": "FL"
+   },
+   "Deal Source": "Broker",
+   "Acquisition Officer": "Picha, Tomas"
+},
+ {
+   "InvestmentId": 235206,
+   "Region": "USA",
+   "Office": "New York",
+   "Registration Received": "6/26/18",
+   "Investment Name": "Mariners Landing",
+   "Deal Status": "Pre-Review",
+   "City": "Edgewater",
+   "State": {
+      " Province": "NJ"
+   },
+   "Deal Source": "Broker",
+   "Acquisition Officer": "Roth, Evan"
+},
+ {
+   "InvestmentId": 235207,
+   "Region": "USA",
+   "Office": "New York",
+   "Registration Received": "6/26/18",
+   "Investment Name": "Parkway Lofts",
+   "Deal Status": "Pre-Review",
+   "City": "Bloomfield",
+   "State": {
+      " Province": "NJ"
+   },
+   "Deal Source": "Broker",
+   "Acquisition Officer": "Picha, Tomas"
+},
+ {
+   "InvestmentId": 235218,
+   "Region": "USA",
+   "Office": "New York",
+   "Registration Received": "6/27/18",
+   "Investment Name": "Bridge Point Powerline Road",
+   "Deal Status": "Pre-Review",
+   "City": "Pompano Beach",
+   "State": {
+      " Province": "FL"
+   },
+   "Deal Source": "Direct",
+   "Acquisition Officer": "Roth, Evan"
+},
+ {
+   "InvestmentId": 235232,
+   "Region": "USA",
+   "Office": "New York",
+   "Registration Received": "6/28/18",
+   "Investment Name": "Suburban Florida Value-Add Portfolio",
+   "Deal Status": "Pre-Review",
+   "City": "North Lauderdale",
+   "State": {
+      " Province": "FL"
+   },
+   "Deal Source": "Broker",
+   "Acquisition Officer": "Roth, Evan"
+},
+ {
+   "InvestmentId": 235237,
+   "Region": "EUROPE",
+   "Office": "Prague",
+   "Registration Received": "6/28/18",
+   "Investment Name": "Savarin",
+   "Deal Status": "Review",
+   "City": "Prague",
+   "State": {
+      " Province": null
+   },
+   "Deal Source": "Direct",
+   "Acquisition Officer": "York, Christopher"
+}
+]
